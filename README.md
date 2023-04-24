@@ -3,9 +3,8 @@
 I am an HPC/ARC Scientific Software Developer.
 
 - 😄 Pronouns: `He/Him`
-- :iran: `in` :canada:
 - 🔭 Currently working on [g3p](https://github.com/arminms/g3p) and [one4all](https://github.com/arminms/one4all)
-- ❤️ Coffee, Cooking, Swimming
+- ❤️ Coffee, Cooking, Swimming, Music, Movies
 - 🎮 XBox
 
 ## 👋 About me
