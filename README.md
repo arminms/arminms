@@ -1,4 +1,17 @@
-### Hi there 👋
+# G'day, eh... I'm Armin!
+
+I am an HPC/ARC Scientific Software Developer.
+
+- 😄 Pronouns: `He/Him`
+- :iran: `in` :canada:
+- 🔭 Currently working on [g3p](https://github.com/arminms/g3p) and [one4all](https://github.com/arminms/one4all)
+- ❤️ Coffee, Cooking, Swimming
+- 🎮 XBox
+
+## 👋 About me
+- HPC Technical Consultant at [SHARCNET](https://sharcnet.ca)
+- Based at [Ontario Tech University](https://ontariotechu.ca)
+- Background in bioinformatics and *in-silico* drug design
 
 <!--
 **arminms/arminms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
