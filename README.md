@@ -3,7 +3,7 @@
 I am an HPC/ARC Scientific Software Developer.
 
 - 😄 Pronouns: `He/Him`
-- 🔭 Currently working on [g3p](https://github.com/arminms/g3p) and [one4all](https://github.com/arminms/one4all)
+- 🔭 Currently working on [g3p](https://github.com/arminms/g3p) and [sq3p](https://github.com/arminms/sq3p)
 - ❤️ Coffee, Cooking, Swimming, Music, Movies
 - 🎮 XBox
 
