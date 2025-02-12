@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=arminms&color=brightgreen)
 # G'day, eh... I'm Armin!
 
 I am an HPC/ARC Scientific Software Developer.
